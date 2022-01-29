@@ -1,2 +1,2 @@
-# Multplatform-App
+# Multiplatform-App
 iOS Multiplatform Catalyst Application
